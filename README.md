@@ -32,7 +32,7 @@ npm --version
 ### Passo 1: Abrir o terminal na pasta do projeto
 
 ```bash
-cd "c:\Users\geiso\OneDrive\Área de Trabalho\BOAS-PRATICAS-COM-IAS"
+cd "c:\Users\user\OneDrive\Área de Trabalho\BOAS-PRATICAS-COM-IAS"
 ```
 
 ### Passo 2: Instalar as dependências
@@ -475,30 +475,3 @@ Para melhorar a API, considere:
 ## Licença
 
 ISC - Use livremente em seus projetos!
-
----
-
-## 🚀 Publicar no GitHub
-
-Seu projeto já está preparado para ser publicado no GitHub! Siga estes passos:
-
-### Passo 1: Criar repositório no GitHub
-1. Acesse https://github.com e faça login
-2. Clique em **"+"** → **"New repository"**
-3. **Nome:** `api-produtos-nodejs`
-4. **Descrição:** `API RESTful Node.js para gerenciar produtos com validações`
-5. **Visibilidade:** ✅ **Public**
-6. **Não marque:** "Add a README file" (já temos um)
-7. Clique em **"Create repository"**
-
-### Passo 2: Conectar e fazer push
-```bash
-# Substitua SEU_USERNAME pelo seu username do GitHub
-git remote add origin https://github.com/SEU_USERNAME/api-produtos-nodejs.git
-git push -u origin master
-```
-
-### Resultado
-Seu projeto estará disponível publicamente em: `https://github.com/SEU_USERNAME/api-produtos-nodejs`
-
-🎉 **Compartilhe seu projeto com a comunidade!**
